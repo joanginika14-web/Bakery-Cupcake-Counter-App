@@ -11,8 +11,10 @@ body {
     font-weight: bold;
     text-align: center;
     color: #8d5a63;
+}
 
-    ;
+#container {
+    justify-content: center;
 }
 
 h1 {
@@ -42,7 +44,7 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 150px;
+    width: 13%;
     margin-top: 150px;
     border-radius: 5px;
 }
